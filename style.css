@@ -105,11 +105,11 @@ footer p {
 
 @media screen and (max-width: 630px){
     .maps iframe {
-        width: 400px;
+        width: 380px;
         height: 300px;
     }
     .box {
-        width: 400px;
+        width: 380px;
     }
     main {
 
